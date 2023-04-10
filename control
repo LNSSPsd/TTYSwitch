@@ -1,0 +1,9 @@
+Package: com.lns.ttyswitch
+Name: TTYSwitch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enable TTY support for incompatible SIM
+Maintainer: Ruphane
+Author: Ruphane
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
